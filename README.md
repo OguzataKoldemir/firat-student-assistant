@@ -96,7 +96,7 @@ All data is hand-prepared from public sources and lives in `data/`:
 
 | Name | Role | GitHub |
 |---|---|---|
-| <A Muhammed> | AI / Backend | @<username> |
+| <A MuhammedAğırman> | AI / Backend | @<username> |
 | <B Eyüp Buğra> | Frontend | @<username> |
 | <C Oğuzata> | Data + Writing | @<username> |
 
